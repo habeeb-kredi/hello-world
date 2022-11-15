@@ -1,0 +1,17 @@
+{
+    "name": "user/hello-world",
+    "description": "hello world",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "User\\HelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Habeeb Amode",
+            "email": "h.amode@thekredibank.com"
+        }
+    ],
+    "require": {}
+}
